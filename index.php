@@ -24,7 +24,7 @@
       <h1 class="text-center text-light mb-4">Formulario Dinámico</h1>
       <form action="" id="frmUsers">
         <div class="mb-3 d-flex justify-content-center text-center align-items-center">
-          <p class="text-center text-light" id="parrafo">Para agregar sus datos, presione el botón "Más".</p>
+          <p class="text-center text-light" id="instruction">Para agregar sus datos, presione el botón "Más".</p>
         </div>
         <div id="inputContainer"></div>
         <div class="mb-3 text-center">
